@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166 207" width="166" height="207">
+	<title>vector_7svg-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m166 0h-166v207h166z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #f5f5f5 } 
+		.s1 { fill: #fe5a04 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 0h166v207h-166z"/>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" class="s1" d="m96.2 1h-1v-1h1zm0 205h1.1v1h-1.1zm69.8-204h-69.8v-2h69.8zm-68.7-1v205h-2.1v-205zm-1.1 206h-49.2v-2h49.2z"/>
+		</g>
+	</g>
+</svg>
